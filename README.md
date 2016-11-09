@@ -1,1 +1,1 @@
-# lab-10-functionse
+"This is lab 10...we're revisiting functions"
